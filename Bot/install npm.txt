@@ -1,0 +1,13 @@
+npm i discord.js@12.5.3
+npm i mineflayer
+npm i commander
+npm i chalk@4
+npm i moment
+npm i colors
+npm i socks-proxy-agent
+npm i https-proxy-agent
+npm install pm2 --save
+
+run
+
+pm2 start bot.js --name "bot"
